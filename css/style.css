@@ -666,6 +666,11 @@ v{
         padding: 0 4%;
     }
 
+    .about-content p{
+        font-size: 1.6rem;
+        margin: 3rem 7.4rem;
+    }
+
     .footer{
         padding: 2rem 4%;
     }
@@ -716,11 +721,19 @@ v{
         font-size: 2rem;
         margin: 3rem 0;
     }
+    .about-content p{
+        font-size: 1.5rem;
+        margin: 3rem 6rem;
+    }
 }
 
 @media (max-width:462px){
     .home-content h1{
         font-size: 5.2rem;
+    }
+    .about-content p{
+        font-size: 1.5rem;
+        margin: 3rem 1rem;
     }
     .education{
         padding: 10rem 4% 5rem 5%;
